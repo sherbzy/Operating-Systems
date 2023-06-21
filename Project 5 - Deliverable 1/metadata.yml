@@ -1,0 +1,12 @@
+---
+:id: 124399398
+:submitters:
+- :name: Lauren Sherburne
+  :email: lsherburne@mines.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-04-29 04:49:21.766403000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-04-28 21:49:21.766403000 Z
+:status: processed
+:score: 35.0
